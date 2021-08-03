@@ -1,0 +1,118 @@
+.full{
+  background-color: rgb(236, 235, 235);
+  height: 100vh;
+}
+.head{
+  text-align: center;
+}
+.linehight{
+  line-height: 4px;
+}
+.normallinehight{
+  line-height: 5px;
+}
+.content{
+  height: 330px;
+}
+.onmonthly{
+  font-size: 14px;
+  width: 65px;
+  background-color: skyblue;
+  border: none;
+  border-radius: 5px;
+  transition: 90ms;
+}
+.onyearly{
+  font-size: 14px;
+  width: 65px;
+  background-color: skyblue;
+  border: none;
+  border-radius: 5px;
+  transition: 90ms;
+
+}
+.monthy, .yearly{
+  font-size: 14px;
+  width: 65px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+}
+.userImage{
+  height: 70px;
+}
+.user{
+  background-color: white;
+  border-radius: 8px;
+  line-height: 20px;
+}
+.userpro{
+  background-color: white;
+  border-radius: 8px;
+  line-height: 20px;
+}
+.onuserpro{
+  background-color: white;
+  border-radius: 8px;
+  line-height: 10px;
+}
+.userp{
+  font-size: 14px;
+  font-weight: 500;
+  padding-top: 25px;
+  line-height: 2px;
+}
+.hr{
+  height: 3px !important;
+  color: rgb(103, 162, 185);
+  width: 30px;
+}
+.price{
+  font-size: 35px !important;
+  font-weight: 500;
+  line-height: 5px;
+}
+.dollersymbole{
+  font-size: 20px;
+}
+.month{
+  font-size: 13px;
+  color: gray;
+}
+.projects{
+  font-size: 13px;
+}
+.tick{
+  color: gold !important;
+  font-size: 20px;
+}
+.choosebtn{
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+  margin-top: 15px;
+  font-size: 13px;
+}
+.bottom{
+  background-color: skyblue;
+  height: 50px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+  
+}
+.bottom:hover{
+  background-color: skyblue;
+  height: 50px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  transition: 1s;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.cross{
+  text-align: right;
+  padding-top: 10px;
+  padding-right: 15px;
+}
